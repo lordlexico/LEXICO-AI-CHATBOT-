@@ -1,0 +1,17 @@
+{
+  "name": "lexico-ai",
+  "version": "1.0.0",
+  "description": "Lexico AI is a friendly chatbot that assists users in their day-to-day activities.",
+  "main": "script.js",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'No build step required for this project'",
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {},
+  "author": "Lord lexico",
+  "license": "MIT"
+}
